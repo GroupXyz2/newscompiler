@@ -1,2 +1,0 @@
-Parser parses all new arcticles from base url's, language model generates an overview of all these articles, and a web based frontend (not yet existing) displays these and can also request new overviews with news sites as input.
-But because my pc can't handle language models this project is paused for now.
