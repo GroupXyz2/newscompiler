@@ -6,4 +6,4 @@ Parser parses all new articles from base url's, language model generates an over
 
 ## Status
 
-Cecause my pc can't handle large language models this project is paused for now.
+Because my pc can't handle large language models this project is paused for now.
